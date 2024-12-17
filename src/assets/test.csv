@@ -1,0 +1,8 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,occupation,hobbies
+Rohit,Prasad,35,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,male,Engineer,Reading
+Sara,Smith,28,12 Green Street,Apt 5,New York,NY,female,Designer,Painting
+John,Doe,45,123 Main Street,,Los Angeles,CA,male,Manager,Cycling
+Jane,Doe,23,456 Elm Street,Suite 3,San Francisco,CA,female,Developer,Coding
+Mike,Jones,60,789 Oak Street,Unit 2,Chicago,IL,male,Retired,Gardening
+Anna,Brown,18,101 Pine Street,Apt 7,Boston,MA,female,Student,Dancing
+George,White,70,202 Birch Street,Floor 1,Miami,FL,male,Retired,Fishing
